@@ -1,0 +1,23 @@
+C:\Users\Yannick\Desktop\C#\HighTechDistribution\HiTechDistribution\bin\Debug\HiTechDistribution.exe.config
+C:\Users\Yannick\Desktop\C#\HighTechDistribution\HiTechDistribution\obj\Debug\HiTechDistribution.csprojResolveAssemblyReference.cache
+C:\Users\Yannick\Desktop\C#\HighTechDistribution\HiTechDistribution\obj\Debug\HiTechDistribution.GUI.FormLogin.resources
+C:\Users\Yannick\Desktop\C#\HighTechDistribution\HiTechDistribution\obj\Debug\HiTechDistribution.Properties.Resources.resources
+C:\Users\Yannick\Desktop\C#\HighTechDistribution\HiTechDistribution\obj\Debug\HiTechDistribution.csproj.GenerateResource.Cache
+C:\Users\Yannick\Desktop\C#\HighTechDistribution\HiTechDistribution\bin\Debug\HiTechDistribution.exe
+C:\Users\Yannick\Desktop\C#\HighTechDistribution\HiTechDistribution\bin\Debug\HiTechDistribution.pdb
+C:\Users\Yannick\Desktop\C#\HighTechDistribution\HiTechDistribution\obj\Debug\HiTechDistribution.exe
+C:\Users\Yannick\Desktop\C#\HighTechDistribution\HiTechDistribution\obj\Debug\HiTechDistribution.pdb
+C:\Users\Yannick\Desktop\C#\HighTechDistribution\HiTechDistribution\obj\Debug\HiTechDistribution.GUI.AboutBoxHighTech.resources
+C:\Users\Yannick\Desktop\C#\HighTechDistribution\HiTechDistribution\obj\Debug\HiTechDistribution.GUI.FormGestionApp.resources
+D:\Users\Yannick\Desktop\Portfolio\project to review\C#\HighTechDistribution\HiTechDistribution\bin\Debug\HiTechDistribution.exe.config
+D:\Users\Yannick\Desktop\Portfolio\project to review\C#\HighTechDistribution\HiTechDistribution\bin\Debug\HiTechDistribution.exe
+D:\Users\Yannick\Desktop\Portfolio\project to review\C#\HighTechDistribution\HiTechDistribution\bin\Debug\HiTechDistribution.pdb
+D:\Users\Yannick\Desktop\Portfolio\project to review\C#\HighTechDistribution\HiTechDistribution\obj\Debug\HiTechDistribution.csproj.AssemblyReference.cache
+D:\Users\Yannick\Desktop\Portfolio\project to review\C#\HighTechDistribution\HiTechDistribution\obj\Debug\HiTechDistribution.GUI.AboutBoxHighTech.resources
+D:\Users\Yannick\Desktop\Portfolio\project to review\C#\HighTechDistribution\HiTechDistribution\obj\Debug\HiTechDistribution.GUI.FormGestionApp.resources
+D:\Users\Yannick\Desktop\Portfolio\project to review\C#\HighTechDistribution\HiTechDistribution\obj\Debug\HiTechDistribution.GUI.FormLogin.resources
+D:\Users\Yannick\Desktop\Portfolio\project to review\C#\HighTechDistribution\HiTechDistribution\obj\Debug\HiTechDistribution.Properties.Resources.resources
+D:\Users\Yannick\Desktop\Portfolio\project to review\C#\HighTechDistribution\HiTechDistribution\obj\Debug\HiTechDistribution.csproj.GenerateResource.cache
+D:\Users\Yannick\Desktop\Portfolio\project to review\C#\HighTechDistribution\HiTechDistribution\obj\Debug\HiTechDistribution.csproj.CoreCompileInputs.cache
+D:\Users\Yannick\Desktop\Portfolio\project to review\C#\HighTechDistribution\HiTechDistribution\obj\Debug\HiTechDistribution.exe
+D:\Users\Yannick\Desktop\Portfolio\project to review\C#\HighTechDistribution\HiTechDistribution\obj\Debug\HiTechDistribution.pdb
